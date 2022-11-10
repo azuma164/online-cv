@@ -83,11 +83,11 @@ projects:
         tagline: "We visualized properties by apartment name."
 
       - title: VSCode-extension
-        link: github.com/azuma164/Add_swap_funtion_to_VSCode
+        link: https://github.com/azuma164/Add_swap_funtion_to_VSCode
         tagline: "We edited the code of VSCode to add new features and sent PR."
 
       - title: Translation video generation by the same speaker.
-        link: github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2
+        link: https://github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2
         tagline: "We made AI systems that convert the input of speaking to translated talking-head animation of the same identity."
 
 # publications:
