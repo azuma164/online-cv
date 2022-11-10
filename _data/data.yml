@@ -65,13 +65,13 @@ experiences:
         company: Function inc.
         details: |
           I am working for Functon inc. as an image processing engineer since 2022/06. I have coped with satellite image processing to utilize those data to solve social problems.
-            - Leading the company to win a competition.
+            - Helping the company to win a competition.
       
       - role: Software engineer (internship)
         time: 2021 (2weeks)
         company: Cocone inc.
         details: |
-          At Cocone inc., I developed API with referencing to login by Java.
+          At Cocone inc., I developed API with reference to login by Java.
 
 projects:
     title: Projects
