@@ -79,7 +79,7 @@ projects:
       Some of the projects I have worked on are as follows.
     assignments:
       - title: House-App
-        link: github.com/azuma164/house_app
+        link: https://github.com/azuma164/house_app
         tagline: "We visualized properties by apartment name."
 
       - title: VSCode-extension
