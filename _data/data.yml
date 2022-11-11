@@ -88,7 +88,7 @@ projects:
 
       - title: Translation video generation by the same speaker.
         link: https://github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2
-        tagline: "We made AI systems that convert the input of speaking to translated talking-head animation of the same identity."
+        tagline: "We made AI systems that convert the input of speech to translated talking-head animation of the same identity."
 
 # publications:
 #     title: Publications
