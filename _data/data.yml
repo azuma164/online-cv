@@ -47,12 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a B4 student in the Aizawa-Matsui Lab at the University of Tokyo. Recently, I have researched about computer vision, image processing, and vision-language. Currrently interested in AI systems that support our lives.
+      I am a M1 student in the Matsui Lab at the University of Tokyo. Recently, I have researched about computer vision, image processing, and vision-language. Currrently interested in AI systems that support our lives.
       I have interned at 2 companies as an engineer so far, and am currently working for one.
 education:
     title: Education
     info:
-      - degree: BSc in Computer Science (expected in Mar. 2023)
+      - degree: BSc in Computer Science 
         university: The University of Tokyo
         time: 2019 - 2022
         details: |
@@ -90,17 +90,12 @@ projects:
         link: https://github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2
         tagline: "We made AI systems that convert the input of speech to translated talking-head animation of the same identity."
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+ publications:
+     papers:
+       - title: Defense-Prefix for Preventing Typographic Attacks on CLIP
+         link: "https://arxiv.org/abs/2304.04512"
+         authors: Hiroki Azuma, Yusuke Matsui
+         conference: arXiv, 2023
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
